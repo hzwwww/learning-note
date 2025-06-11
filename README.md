@@ -3,6 +3,7 @@
 📌 提示信息
 - [CUDA](./cuda)
     - [《CUDA C编程权威指南》](./cuda/professional_cuda_c_programming)
+    - [GPU_Puzzles](./cuda/gpu_puzzles)
 - [深度学习](./deeplearning)
     - [吴恩达专项课程-序列模型](./deeplearning/deep_learning_specializations/sequence_models)
 - [大模型](./llm)
