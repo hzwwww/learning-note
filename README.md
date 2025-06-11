@@ -6,5 +6,6 @@
 - [深度学习](./deeplearning)
     - [吴恩达专项课程-序列模型](./deeplearning/deep_learning_specializations/sequence_models)
 - [大模型](./llm)
-    - [深入挖掘llama3的从零实现](./deepdive_llama3_from_scratch)
-    - [Coding a Transformer from scratch on PyTorch, with full explanation, training and inference.](./coding_a_transformer_from_scratch_on_pytorch)
+    - [深入挖掘llama3的从零实现](./llm/deepdive_llama3_from_scratch)
+    - [Coding a Transformer from scratch on PyTorch, with full explanation, training and inference.](./llm/coding_a_transformer_from_scratch_on_pytorch)
+    - [Attention is all you need (Transformer) - Model explanation (including math), Inference and Training](./llm/attention_is_all_you_need_model_explanation)
